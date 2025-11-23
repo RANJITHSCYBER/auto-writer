@@ -1,0 +1,13 @@
+pyperclip
+pyautogui
+keyboard
+pynput
+ast):
+  File "c:\Users\RANJITH S\Desktop\paste\paste_typer.py", line 8, in <module>
+      import pyperclip
+      ModuleNotFoundError: No module named 'pyperclip'
+      PS C:\Users\RANJITH S\AppData\Local\Programs\Microsoft VS Code> pyperclip==1.8.2
+pyautogui==0.9.54
+keyboard==0.13.5
+pynput==1.7.6
+
